@@ -1,3 +1,3 @@
 # CalidadSoftware
-cursoUCH
-proyecto echo para el area de salud 
+CURSO UCH
+PROYECTO HECHO PARA LA GESTIÓN DE LA SALUD
